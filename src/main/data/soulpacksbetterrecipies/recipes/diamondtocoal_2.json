@@ -1,0 +1,12 @@
+{
+  "group": "soulpacksbetterrecipies",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

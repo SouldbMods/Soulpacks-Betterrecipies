@@ -1,0 +1,30 @@
+{
+  "group": "soulpacksbetterrecipies",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "1": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "2": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "4": {
+      "item": "minecraft:moving_piston"
+    },
+    "7": {
+      "item": "minecraft:moving_piston"
+    }
+  },
+  "result": {
+    "item": "minecraft:piston_head",
+    "count": 1
+  }
+}

@@ -81,6 +81,69 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "install_pack"
+    },
+    {
+      "name": "Charfire",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charfire"
+    },
+    {
+      "name": "CharFire2",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "char_fire_2"
+    },
+    {
+      "name": "PistonHead",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piston_head"
+    },
+    {
+      "name": "Extention",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extention"
+    },
+    {
+      "name": "Piston",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "piston"
+    },
+    {
+      "name": "Diamondtocoal",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamondtocoal"
+    },
+    {
+      "name": "Diamondtocoal2",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamondtocoal_2"
     }
   ],
   "variable_elements": [],
