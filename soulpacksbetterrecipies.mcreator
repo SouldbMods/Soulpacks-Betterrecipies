@@ -1,0 +1,95 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Woolstrind",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolstrind"
+    },
+    {
+      "name": "Strindwool",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strindwool"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fence_blocks"
+    },
+    {
+      "name": "WoodenFenceBlocks",
+      "type": "tag",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_fence_blocks"
+    },
+    {
+      "name": "TickFunctions",
+      "type": "tag",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tick_functions"
+    },
+    {
+      "name": "LoadFunctions",
+      "type": "tag",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load_functions"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "soulpacksbetterrecipies",
+    "modName": "Soulpacks-Better-Recipies",
+    "version": "1.0.0",
+    "author": "Admin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.16.x",
+    "modElementsPackage": "net.mcreator.soulpacksbetterrecipies",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}
