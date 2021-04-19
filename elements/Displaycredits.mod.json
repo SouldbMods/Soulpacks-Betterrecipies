@@ -1,0 +1,9 @@
+{
+  "_fv": 17,
+  "_type": "function",
+  "definition": {
+    "code": "# Enter the function code here\nsay ------------------------------\nsay §eSoulpacks§5Better §5Recipies\nsay §bBy Souldbminer\nsay ------------------------------",
+    "name": "displaycredits",
+    "namespace": "mod"
+  }
+}
